@@ -4,7 +4,7 @@
 
 In order to practice some **Flexbox**, I implemented the *responsiveness* of Slack's former landing page. 
 
-You can acess the web demo **[here](https://togeri.github.io/lab-css-flexbox-slack/)**
+**You can acess the web demo :point_right: [here](https://togeri.github.io/lab-css-flexbox-slack/)** :point_left:
 
 
 ## Final Result
